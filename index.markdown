@@ -1,4 +1,4 @@
-<!-- index.md -->
+<!-- index.markdown -->
 ---
 layout: home
 list_title: Latest Posts
